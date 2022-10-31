@@ -1,0 +1,23 @@
+﻿  Final project.c
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(46,5): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(73,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(101,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(126,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(141,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(156,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(176,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(203,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(231,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(249,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(274,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(291,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(309,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(326,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(338,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(351,33): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(367,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(400,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(421,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(462,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\achiy\source\repos\Final project\Final project\Final project.c(57,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Final project.vcxproj -> C:\Users\achiy\source\repos\Final project\x64\Debug\Final project.exe
